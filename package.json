@@ -1,0 +1,22 @@
+{
+  "name": "git-head-sha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=development node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doudounannan/gitSha.git"
+  },
+  "keywords": [
+    "gitsha"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doudounannan/gitSha/issues"
+  },
+  "homepage": "https://github.com/doudounannan/gitSha#readme"
+}
